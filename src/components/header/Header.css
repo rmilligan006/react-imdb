@@ -1,0 +1,21 @@
+header {
+    margin: 0 2.5rem;
+    padding: .5rem 0;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.headerLeft, .headerRight {
+    display: flex;
+    align-items: center;
+}
+
+a > span { 
+    margin: .45rem;
+    font-size: .9rem;
+    cursor: pointer;
+    color: #fff;
+    
+}
+
